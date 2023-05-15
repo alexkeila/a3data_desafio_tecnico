@@ -4,7 +4,7 @@
 
 Este projeto está relacionado com a resolução do desafio técnico para vaga de Cientista de Dados na A3Data (https://communication-assets.gupy.io/production/companies/14029/emails/1683807732718/c02a6e30-1a77-11ed-9cbe-8d1f19b15125/a3data_-_desafio_tcnico_cd_-_nlp.pdf)
 
-Este repositório consiste de apenas um arquivo: um [Jupyter Notebook](https://github.com/alexkeila/a3data_desafio_tecnico/blob/main/Desafio_t%C3%A9cnico_A3Data_Notebook_final.ipynb) com todos os passos que desenvolvi para resolver o desafio.
+Este repositório consiste de apenas um arquivo: um [Jupyter Notebook]([https://github.com/alexkeila/a3data_desafio_tecnico/blob/main/Desafio_t%C3%A9cnico_A3Data_Notebook_final.ipynb](https://github.com/alexkeila/a3data_desafio_tecnico/blob/main/A3Data%20-%20Desafio%20t%C3%A9cnico.ipynb)) com todos os passos que desenvolvi para resolver o desafio.
 
 All code are in a way that anyone can run all cells in order and everything should work fine!!
 
