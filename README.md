@@ -15,3 +15,7 @@ Eu segui os passos do CRISP-DM, eventualmente pulando algumas partes que não er
 3. Análise exploratória dos dados
 4. Apresentação dos resultados (Data Viz e Storytelling)
 
+
+## $\color{red}{ATENÇÃO:}$
+#### PS: depois de terminar a elaboração do código e começar a fazer a apresentação, percebi que cometi um erro na hora de fazer o uso do Word Embedding Word2Vec (utilizei o modelo treinado em Português, não em Inglês). Porém, para não ter de mexer novamente no código do notebook, mantive esse trecho lá no notebook para fins ilustrativos apenas, já que, fazendo a correção do idioma, a utilização da ferramenta seria basicamente da mesma maneira. Portanto, caso for tentar executar o notebook, esteja ciente desse fato: o modelo de Word2Vec utilizado está totalmente errado, pois está convertendo as palavras em inglês para um espaço vetorial treinado com um corpus em português, ou seja, nada a ver!!!
+### $\color{olive}{\[YOU'VE \ BEEN \ WARNED!!\]}$
