@@ -1,22 +1,19 @@
-![image](https://user-images.githubusercontent.com/7256682/154767526-b3135f7f-5da9-481c-8f22-d1f504f16d3f.png)
+![image](https://media.licdn.com/dms/image/C4D0BAQFNAF7sHORNgw/company-logo_200_200/0/1669919278121?e=2147483647&v=beta&t=465J9uEsnsZstQaGLrTbkTwaghzlG6EmMIrP-QLegPg)
 
-# Data Science Nanodegree - Project 1: Write a Data Science Blog Post
+# A3Data - Desafio Técnico para Cientista de Dados
 
-This project is related to the Data Science Nanodegree on Udacity (https://classroom.udacity.com/nanodegrees/nd025/dashboard/overview)
+Este projeto está relacionado com a resolução do desafio técnico para vaga de Cientista de Dados na A3Data (https://communication-assets.gupy.io/production/companies/14029/emails/1683807732718/c02a6e30-1a77-11ed-9cbe-8d1f19b15125/a3data_-_desafio_tcnico_cd_-_nlp.pdf)
 
-I have also written a post at Medium describing this project and the results. It can be accessed [here](https://medium.com/@alexkeila/analysis-of-the-weather-from-brazil-in-the-year-2021-9b28c5c839e).
-
-
-This repository consists of only one file: a [Jupyter Notebook](https://github.com/alexkeila/udacity_data_science_nanodegree/blob/main/Project%20-%20Write%20a%20Data%20Science%20Blog%20Post.ipynb) with all the steps of my Data Science Project
+Este repositório consiste de apenas um arquivo: um [Jupyter Notebook](https://github.com/alexkeila/a3data_desafio_tecnico/blob/main/Desafio_t%C3%A9cnico_A3Data_Notebook_final.ipynb) com todos os passos que desenvolvi para resolver o desafio.
 
 All code are in a way that anyone can run all cells in order and everything should work fine!!
 
 I used a dataset about weather data from Brazil to answer some questions. All the details are very well documented and easy to read inside the notebook.
 
-I followed the logical steps from CRISP-DM, skiping some parts that were not interesting or not needed for this project.
+Eu segui os passos do CRISP-DM, eventualmente pulando algumas partes que não eram interessantes ou não eram necessárias para esse projeto.
 
-1. Data Understanding and Collecting
-2. Data Preparation
-3. Exploratory Data Analysis (EDA)
-4. Presentation of the results/visualizations (Data Viz and Storytelling)
+1. Entendimento dos dados
+2. Preparação dos dados
+3. Análise exploratória dos dados
+4. Apresentação dos resultados (Data Viz e Storytelling)
 
